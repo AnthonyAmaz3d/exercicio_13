@@ -1,0 +1,43 @@
+
+
+section h2 {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.carousel-item img {
+    height: 440px;
+}
+
+header {
+    background-color: #faaf1d;
+    margin-bottom: 24px;
+}
+
+footer {
+    background-color: #faaf1d;
+    padding: 16px;
+}
+
+.nav-link {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 40px
+}
+
+h5, h6 {
+    padding: 12px 0;
+}
+
+.form-check {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.form-label {
+    margin-top: 0.5rem;
+}
+
+
